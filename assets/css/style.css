@@ -1,7 +1,7 @@
 body {
    /* more on theis crazy alphanumerical value in a mintue!*/
    color: #39a6b2; 
-    font-family: Helvetica, Arial, sans-serif;
+   font-family: Helvetica, Arial, sans-serif;
 }
 
 /* apply st;yles to <header> */
@@ -11,14 +11,18 @@ header {
 }
 
 header h1{
-        Font-weight: bold;
-        font-size: 36px;
-        color: #fce138;
-        margin: 0;
+    Font-weight: bold;
+    font-size: 36px;
+    color: #fce138;
+    margin: 0;
     }
 
 header a {
-        color: #fce138;
+    text-decoration: none;
+    color: #fce138;
     }
-
+header nav {
+    float: right;
+    margin: 7px 0;
+}
     
