@@ -1,0 +1,11 @@
+body {
+   /* more on theis crazy alphanumerical value in a mintue!*/
+   color: #39a6b2; 
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+/* apply st;yles to <header> */
+header {
+    padding: 20px 35px;
+    background-color: #39a6b2;
+}
