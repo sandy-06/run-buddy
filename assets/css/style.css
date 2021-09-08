@@ -5,12 +5,12 @@
 }
 
 body {
-   /* more on theis crazy alphanumerical value in a mintue!*/
-   color: #39a6b2; 
+   /* more on this crazy alphanumerical value in a minute!*/
+   color: #39a6b2;
    font-family: Helvetica, Arial, sans-serif;
 }
 
-/* apply st;yles to <header> */
+/* apply styles to <header> */
 header {
     padding: 20px 35px;
     background-color: #39a6b2;
