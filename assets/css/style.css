@@ -153,11 +153,13 @@ section {
 /* SECTION TITLE STYLES START */
 .section-title {
   font-size: 55px;
-  display: inline-block;
-  padding: 0 100px 20px 100px;
   border-bottom: 3px solid;
-  margin-bottom: 35px;
   color: #024e76;
+  padding-bottom: 20px;
+  text-align: center;
+  margin: 0 auto 35px auto;
+  width: 50%;
+
 }
 
 .primary-border {
@@ -170,9 +172,6 @@ section {
 /* SECTION TITLE STYLES END */
 
 /* WHAT WE DO STYLES */
-.intro {
-  text-align: center;
-}
 
 .intro p {
   line-height: 1.7;
@@ -180,44 +179,69 @@ section {
   width: 80%;
   margin: 0 auto;
   font-size: 20px;
+  text-align: center;
 }
 /* WHAT YOU DO STYLES END */
 
 
 /* WHAT YOU DO STYLES START */
 .steps { 
-  text-align: center;
+  
   background: #fce138;
 }
 
-.steps div {
-  margin-bottom: 80px;
+.step {
+  margin: 50px auto;
+  padding-bottom: 50px;
+  width: 80%;
+  border-bottom: 1ps solid #39a6b2;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
 }
 
-.steps img {
-  width: 15%;
-  margin: 10px 0;
-} 
 
-.steps h3 {
+.step h3 {
   color: #024e76;
   font-size: 46px;
-  margin-top: 10px;
+  flex: 1 30%;
 }
+ .step-info {
+   flex: 2 70%;
+   display: flex;
+   flex-wrap: wrap;
+   align-items: center;
+ }
 
-.steps span {
-  font-size: 38px;
-}
-
-.steps p {
+.step-text p {
   color: #39a6b2;
-  font-size: 23px;
+  font-size: 18px;
+}
+
+.step-text h4 {
+  font-size:26px;
+  line-height: 1.5;
+  color:#024e76;
+}
+
+.step-img{
+  flex: 1 12%;
+  margin-right: 20px;
+}
+
+.step-text {
+  flex: 12;
+}
+
+.step-img img {
+  max-widthe: 100%;
 }
 /* WHAT YOU DO STYLES END */
 
 /* MEET THE TRAINERS START */
 .trainers {
-  text-align: center;
+ 
 }
 
 .trainer {
@@ -258,7 +282,7 @@ section {
 
 /* REACH OUT STYLES START */
 .contact {
-  text-align: center;
+ 
   background: #024e76;
 }
 
@@ -306,4 +330,8 @@ height: 400px;
 
 .text-right {
   text-align: right;
+}
+
+.flex-row {
+  display: flex;
 }
