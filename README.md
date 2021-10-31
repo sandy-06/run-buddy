@@ -1,7 +1,7 @@
 # Run Buddy, Inc
 
 ## Purpose
-A website that offers fitness training services. 
+A website that offers fitness training services. We were provided a mock up of what they wanted. Then a web page was created the match the mock-up with interactive capabilites. As an add on a disclosure statement was added to the projuect
 
 ## Built With
 * HTML
