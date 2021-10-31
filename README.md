@@ -1,7 +1,7 @@
 # Run Buddy, Inc
 
 ## Purpose
-A website that offers fitness training services. We were provided a mock up of what they wanted. Then a web page was created the match the mock-up with interactive capabilites. As an add on a disclosure statement was added to the projuect
+A website that offers fitness training services. We were provided a mock up of what they wanted. Then a web page was created the match the mock-up with interactive capabilites. As an add on a disclosure statement was added to the project
 
 ## Built With
 * HTML
@@ -11,6 +11,6 @@ A website that offers fitness training services. We were provided a mock up of w
 https://lernantino.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by [your name]
+Made with ❤️ by Sandra Sanders
 
 ### ©️2019 Run Buddy, Inc 
