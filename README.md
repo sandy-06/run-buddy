@@ -10,7 +10,7 @@ A website that offers fitness training services. We were provided a mock up of w
 ## Website
 https://lernantino.github.io/run-buddy/
 
-![alt text](assets/images/Screenshot11540.png)
+![alt text](./assets/images/screenshot1.png)
 ## Contribution
 Made with ❤️ by Sandra Sanders
 
